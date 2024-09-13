@@ -110,85 +110,85 @@ Here is a comprehensive topic list for the Java programming language:
    - Processing annotations
 
 ### 16. **Java I/O (Input/Output)**
-    - Byte stream vs character stream
-    - Buffered streams
-    - Object streams (ObjectInputStream, ObjectOutputStream)
-    - Scanner class for input handling
-    - Reading/writing files with NIO package
+   - Byte stream vs character stream
+   - Buffered streams
+   - Object streams (ObjectInputStream, ObjectOutputStream)
+   - Scanner class for input handling
+   - Reading/writing files with NIO package
 
 ### 17. **Java Database Connectivity (JDBC)**
-    - Introduction to JDBC
-    - Connecting to a database (MySQL, Oracle, etc.)
-    - Executing SQL queries
-    - ResultSet and PreparedStatement
-    - Transactions and batch processing
+   - Introduction to JDBC
+   - Connecting to a database (MySQL, Oracle, etc.)
+   - Executing SQL queries
+   - ResultSet and PreparedStatement
+   - Transactions and batch processing
 
 ### 18. **Java Networking**
-    - Introduction to networking in Java
-    - Working with sockets (ServerSocket, Socket)
-    - DatagramSockets and UDP communication
-    - URL and HttpURLConnection classes for HTTP communication
+   - Introduction to networking in Java
+   - Working with sockets (ServerSocket, Socket)
+   - DatagramSockets and UDP communication
+   - URL and HttpURLConnection classes for HTTP communication
 
 ### 19. **JavaFX and GUI Programming**
-    - Introduction to JavaFX
-    - Creating a basic GUI window
-    - Event handling in GUI applications
-    - Layouts (GridPane, BorderPane, VBox, HBox)
-    - JavaFX controls (Button, Label, TextField, etc.)
-    - Scene and stage management
+   - Introduction to JavaFX
+   - Creating a basic GUI window
+   - Event handling in GUI applications
+   - Layouts (GridPane, BorderPane, VBox, HBox)
+   - JavaFX controls (Button, Label, TextField, etc.)
+   - Scene and stage management
 
 ### 20. **Java Servlets and JSP (Java Web Development)**
-    - Introduction to servlets
-    - Servlet lifecycle (init, service, destroy)
-    - Handling GET and POST requests
-    - Session management in servlets
-    - JavaServer Pages (JSP) and JSP tags
+   - Introduction to servlets
+   - Servlet lifecycle (init, service, destroy)
+   - Handling GET and POST requests
+   - Session management in servlets
+   - JavaServer Pages (JSP) and JSP tags
 
 ### 21. **Reflection API**
-    - Introduction to Reflection
-    - Inspecting classes, methods, and fields at runtime
-    - Dynamic method invocation
-    - Advantages and disadvantages of using reflection
+   - Introduction to Reflection
+   - Inspecting classes, methods, and fields at runtime
+   - Dynamic method invocation
+   - Advantages and disadvantages of using reflection
 
 ### 22. **Java 8 and Beyond (New Features)**
-    - Java 8 new features (lambda expressions, streams, etc.)
-    - Java 9 features (Modules, JShell, etc.)
-    - Java 10-17 features (Local variable type inference, records, etc.)
-    - Text blocks, pattern matching, and switch expressions (Java 14+)
+   - Java 8 new features (lambda expressions, streams, etc.)
+   - Java 9 features (Modules, JShell, etc.)
+   - Java 10-17 features (Local variable type inference, records, etc.)
+   - Text blocks, pattern matching, and switch expressions (Java 14+)
 
 ### 23. **Design Patterns in Java**
-    - Creational patterns (Singleton, Factory, Builder, etc.)
-    - Structural patterns (Adapter, Decorator, Proxy, etc.)
-    - Behavioral patterns (Observer, Strategy, Command, etc.)
-    - MVC pattern in Java
+   - Creational patterns (Singleton, Factory, Builder, etc.)
+   - Structural patterns (Adapter, Decorator, Proxy, etc.)
+   - Behavioral patterns (Observer, Strategy, Command, etc.)
+   - MVC pattern in Java
 
 ### 24. **Best Practices in Java Programming**
-    - Writing clean and efficient code
-    - Exception handling best practices
-    - Use of immutability
-    - Best practices for multithreading and synchronization
-    - Debugging and testing (JUnit, TestNG)
+   - Writing clean and efficient code
+   - Exception handling best practices
+   - Use of immutability
+   - Best practices for multithreading and synchronization
+   - Debugging and testing (JUnit, TestNG)
 
 ### 25. **Java Performance Tuning**
-    - JVM tuning
-    - Optimizing memory usage
-    - Garbage collection tuning
-    - Profiling and analyzing Java applications
+   - JVM tuning
+   - Optimizing memory usage
+   - Garbage collection tuning
+   - Profiling and analyzing Java applications
 
 ### 26. **Modular Programming (Java 9+)**
-    - Introduction to modules in Java
-    - Creating and using modules
-    - Module descriptors and module path
-    - Modular JDK
+   - Introduction to modules in Java
+   - Creating and using modules
+   - Module descriptors and module path
+   - Modular JDK
 
 ### 27. **Security in Java**
-    - Security features of the Java platform
-    - Java Security Manager and Permissions
-    - Cryptography in Java (encryption and decryption)
-    - Secure coding practices
+   - Security features of the Java platform
+   - Java Security Manager and Permissions
+   - Cryptography in Java (encryption and decryption)
+   - Secure coding practices
 
 ### 28. **Java Frameworks and Libraries**
-    - Spring Framework (Core, MVC, Boot)
-    - Hibernate (ORM framework)
-    - JavaFX for desktop applications
-    - Maven and Gradle build tools
+   - Spring Framework (Core, MVC, Boot)
+   - Hibernate (ORM framework)
+   - JavaFX for desktop applications
+   - Maven and Gradle build tools
