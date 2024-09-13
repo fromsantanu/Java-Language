@@ -67,12 +67,12 @@ Here is a comprehensive topic list for the Java programming language:
    - Access modifiers (public, private, protected, default)
 
 ### 10. **Collections Framework**
-    - Introduction to Collections
-    - List, Set, and Map interfaces
-    - ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap
-    - Iterators and enhanced for-loop
-    - Sorting and searching in collections
-    - Comparable and Comparator interfaces
+   - Introduction to Collections
+   - List, Set, and Map interfaces
+   - ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap
+   - Iterators and enhanced for-loop
+   - Sorting and searching in collections
+   - Comparable and Comparator interfaces
 
 ### 11. **File Handling**
     - Reading and writing files using File I/O classes (FileReader, FileWriter, BufferedReader, BufferedWriter)
