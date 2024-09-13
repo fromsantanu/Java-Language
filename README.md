@@ -75,39 +75,39 @@ Here is a comprehensive topic list for the Java programming language:
    - Comparable and Comparator interfaces
 
 ### 11. **File Handling**
-    - Reading and writing files using File I/O classes (FileReader, FileWriter, BufferedReader, BufferedWriter)
-    - Serialization and Deserialization
-    - FileInputStream, FileOutputStream
-    - Handling file exceptions
+   - Reading and writing files using File I/O classes (FileReader, FileWriter, BufferedReader, BufferedWriter)
+   - Serialization and Deserialization
+   - FileInputStream, FileOutputStream
+   - Handling file exceptions
 
 ### 12. **Multithreading and Concurrency**
-    - Introduction to multithreading
-    - Creating threads (Thread class and Runnable interface)
-    - Thread lifecycle and states
-    - Synchronization and inter-thread communication
-    - The `synchronized` keyword and locks
-    - `wait()`, `notify()`, `notifyAll()` methods
-    - Concurrency utilities (Executor framework, Concurrent collections)
+   - Introduction to multithreading
+   - Creating threads (Thread class and Runnable interface)
+   - Thread lifecycle and states
+   - Synchronization and inter-thread communication
+   - The `synchronized` keyword and locks
+   - `wait()`, `notify()`, `notifyAll()` methods
+   - Concurrency utilities (Executor framework, Concurrent collections)
 
 ### 13. **Generics**
-    - Introduction to generics
-    - Generic classes and interfaces
-    - Generic methods
-    - Bounded type parameters
-    - Wildcards in generics
+   - Introduction to generics
+   - Generic classes and interfaces
+   - Generic methods
+   - Bounded type parameters
+   - Wildcards in generics
 
 ### 14. **Lambda Expressions and Functional Programming**
-    - Introduction to lambda expressions
-    - Functional interfaces and built-in functional interfaces
-    - Method references and constructor references
-    - Streams API and its operations (map, filter, reduce)
-    - Optional class
+   - Introduction to lambda expressions
+   - Functional interfaces and built-in functional interfaces
+   - Method references and constructor references
+   - Streams API and its operations (map, filter, reduce)
+   - Optional class
 
 ### 15. **Annotations**
-    - Built-in annotations (`@Override`, `@Deprecated`, `@SuppressWarnings`)
-    - Meta-annotations (`@Retention`, `@Target`, etc.)
-    - Creating custom annotations
-    - Processing annotations
+   - Built-in annotations (`@Override`, `@Deprecated`, `@SuppressWarnings`)
+   - Meta-annotations (`@Retention`, `@Target`, etc.)
+   - Creating custom annotations
+   - Processing annotations
 
 ### 16. **Java I/O (Input/Output)**
     - Byte stream vs character stream
