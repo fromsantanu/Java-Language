@@ -2,17 +2,17 @@
 
 ### 1. **Introduction to Java**
    - [History of Java](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0101.md)
-   - [Features of Java](#)
-   - [Java Virtual Machine (JVM), Java Runtime Environment (JRE), and Java Development Kit (JDK)](#)
-   - [The structure of a Java program](#)
-   - [Compiling and running Java programs](#)
+   - [Features of Java](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0102.md)
+   - [Java Virtual Machine (JVM), Java Runtime Environment (JRE), and Java Development Kit (JDK)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0103.md)
+   - [The structure of a Java program](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0104.md)
+   - [Compiling and running Java programs](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0105.md)
 
 ### 2. **Java Basics**
-   - [Java keywords and syntax](#)
-   - [Data types and variables](#)
-   - [Type casting and type conversion](#)
-   - [Operators (Arithmetic, Relational, Logical, Bitwise, etc.)](#)
-   - [Input and Output (Scanner, System.out)](#)
+   - [Java keywords and syntax](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
+   - [Data types and variables](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
+   - [Type casting and type conversion](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
+   - [Operators (Arithmetic, Relational, Logical, Bitwise, etc.)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
+   - [Input and Output (Scanner, System.out)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
 
 ### 3. **Control Flow Statements**
    - [if, if-else, nested if-else](#)
