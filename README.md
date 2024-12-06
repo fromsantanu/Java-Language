@@ -9,10 +9,10 @@
 
 ### 2. **Java Basics**
    - [Java keywords and syntax](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
-   - [Data types and variables](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
-   - [Type casting and type conversion](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
-   - [Operators (Arithmetic, Relational, Logical, Bitwise, etc.)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
-   - [Input and Output (Scanner, System.out)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0201.md)
+   - [Data types and variables](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0202.md)
+   - [Type casting and type conversion](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0203.md)
+   - [Operators (Arithmetic, Relational, Logical, Bitwise, etc.)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0204.md)
+   - [Input and Output (Scanner, System.out)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0205.md)
 
 ### 3. **Control Flow Statements**
    - [if, if-else, nested if-else](#)
