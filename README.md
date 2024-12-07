@@ -39,24 +39,24 @@
    - [Abstraction (abstract classes and interfaces)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0508.md)
 
 ### 6. **Arrays and Strings**
-   - [One-dimensional and multi-dimensional arrays](#)
-   - [Common array operations](#)
-   - [Strings in Java (String class, StringBuilder, StringBuffer)](#)
-   - [String manipulation methods](#)
-   - [Arrays as method parameters](#)
+   - [One-dimensional and multi-dimensional arrays](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0601.md)
+   - [Common array operations](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0602.md)
+   - [Strings in Java (String class, StringBuilder, StringBuffer)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0603.md)
+   - [String manipulation methods](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0604.md)
+   - [Arrays as method parameters](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0605.md)
 
 ### 7. **Memory Management**
-   - [Stack vs Heap memory](#)
-   - [Garbage collection in Java](#)
-   - [finalize() method](#)
+   - [Stack vs Heap memory](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0701.md)
+   - [Garbage collection in Java](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0702.md)
+   - [finalize() method](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0703.md)
 
 ### 8. **Exception Handling**
-   - [Types of exceptions (checked vs unchecked)](#)
-   - [Try-catch blocks](#)
-   - [Multiple catch blocks and nested try-catch](#)
-   - [finally block](#)
-   - [throw and throws keywords](#)
-   - [Custom exceptions](#)
+   - [Types of exceptions (checked vs unchecked)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0801.md)
+   - [Try-catch blocks](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0802.md)
+   - [Multiple catch blocks and nested try-catch](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0803.md)
+   - [finally block](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0804.md)
+   - [throw and throws keywords](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0805.md)
+   - [Custom exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0806.md)
 
 ### 9. **Packages and Access Modifiers**
    - [Creating and using packages](#)
