@@ -17,6 +17,7 @@
 ### 3. **Control Flow Statements**
    - [if, if-else, nested if-else](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0301.md)
    - [switch-case statements](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0302.md)
+   - [Basic Decision Manking Programming Exercises](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0301.md) 
    - [Loops (for, while, do-while)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0303.md)
    - [Break, Continue, and Return statements](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0304.md)
    - [Enhanced for-loop](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0305.md)
