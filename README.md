@@ -19,7 +19,9 @@
    - [switch-case statements](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0302.md)
    - [Basic Decision Manking Programming Exercises](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0301.md) 
    - [Loops (for, while, do-while)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0303.md)
+   - [Basic Loop Specific Questions](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0302.md)
    - [Break, Continue, and Return statements](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0304.md)
+   - [Loop control specific Questions](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0303.md)
    - [Enhanced for-loop](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0305.md)
 
 ### 4. **Functions and Methods**
