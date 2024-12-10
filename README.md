@@ -63,18 +63,18 @@
    - [Custom exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0806.md)
 
 ### 9. **Packages and Access Modifiers**
-   - [Creating and using packages](#)
-   - [Importing packages](#)
-   - [Java built-in packages (java.util, java.io, etc.)](#)
-   - [Access modifiers (public, private, protected, default)](#)
+   - [Creating and using packages](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0901.md)
+   - [Importing packages](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0902.md)
+   - [Java built-in packages (java.util, java.io, etc.)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0903.md)
+   - [Access modifiers (public, private, protected, default)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0904.md)
 
 ### 10. **Collections Framework**
-   - [Introduction to Collections](#)
-   - [List, Set, and Map interfaces](#)
-   - [ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap](#)
-   - [Iterators and enhanced for-loop](#)
-   - [Sorting and searching in collections](#)
-   - [Comparable and Comparator interfaces](#)
+   - [Introduction to Collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1001.md)
+   - [List, Set, and Map interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1002.md)
+   - [ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1003.md)
+   - [Iterators and enhanced for-loop](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1004.md)
+   - [Sorting and searching in collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1005.md)
+   - [Comparable and Comparator interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1006.md)
 
 ### 11. **File Handling**
    - [Reading and writing files using File I/O classes (FileReader, FileWriter, BufferedReader, BufferedWriter)](#)
