@@ -1,4 +1,4 @@
-# Java Programming Tutorial
+# Java Programming Tutorial (Complete Core Java)
 ## Part I - Basic Java Concepts
 ### 1. **Introduction to Java**
    - [History of Java](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0101.md)
