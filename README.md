@@ -76,7 +76,7 @@
    - [Sorting and searching in collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1005.md)
    - [Comparable and Comparator interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1006.md)
 
-### 11. **File Handling** ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
+### 11. **File Handling** 
    - [Reading and writing files using File I/O classes (FileReader, FileWriter, BufferedReader, BufferedWriter)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1101.md)
    - [Serialization and Deserialization](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1102.md)
    - [FileInputStream, FileOutputStream](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1103.md)
