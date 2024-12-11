@@ -62,7 +62,7 @@
    - [throw and throws keywords](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0805.md)
    - [Custom exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0806.md)
 
-### 9. **Packages and Access Modifiers** ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
+### 9. **Packages and Access Modifiers** 
    - [Creating and using packages](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0901.md)
    - [Importing packages](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0902.md)
    - [Java built-in packages (java.util, java.io, etc.)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0903.md)
