@@ -62,13 +62,13 @@
    - [throw and throws keywords](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0805.md)
    - [Custom exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0806.md)
 
-### 9. **Packages and Access Modifiers**
+### 9. **Packages and Access Modifiers** ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
    - [Creating and using packages](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0901.md)
    - [Importing packages](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0902.md)
    - [Java built-in packages (java.util, java.io, etc.)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0903.md)
    - [Access modifiers (public, private, protected, default)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0904.md)
 
-### 10. **Collections Framework**
+### 10. **Collections Framework** ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
    - [Introduction to Collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1001.md)
    - [List, Set, and Map interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1002.md)
    - [ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1003.md)
@@ -76,13 +76,13 @@
    - [Sorting and searching in collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1005.md)
    - [Comparable and Comparator interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1006.md)
 
-### 11. **File Handling**
+### 11. **File Handling** ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
    - [Reading and writing files using File I/O classes (FileReader, FileWriter, BufferedReader, BufferedWriter)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1101.md)
    - [Serialization and Deserialization](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1102.md)
    - [FileInputStream, FileOutputStream](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1103.md)
    - [Handling file exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1104.md)
 ##
-## Part II - Advanced Java Concepts
+## Part II - Advanced Java Concepts ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 ### 12. **Multithreading and Concurrency**
    - [Introduction to multithreading](#)
    - [Creating threads (Thread class and Runnable interface)](#)
