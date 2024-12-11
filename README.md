@@ -68,7 +68,7 @@
    - [Java built-in packages (java.util, java.io, etc.)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0903.md)
    - [Access modifiers (public, private, protected, default)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0904.md)
 
-### 10. **Collections Framework** ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
+### 10. **Collections Framework** 
    - [Introduction to Collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1001.md)
    - [List, Set, and Map interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1002.md)
    - [ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1003.md)
