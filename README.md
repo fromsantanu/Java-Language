@@ -39,20 +39,33 @@
 
 ### 5. **Object-Oriented Programming (OOP)**
    - [Classes and objects](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0501.md)
+   - [Exercise 1 - Classes and Objects](#)
    - [Constructors and initialization blocks](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0502.md)
+   - [Exercise 2 - Constructors and initialization blocks](#)
    - [`this` keyword](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0503.md)
+   - [Exercise 3 - Using `this` keyword](#)
    - [Inheritance and method overriding](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0504.md)
+   - [Exercise 4 - Inheritance and method overriding](#)
    - [`super` keyword](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0505.md)
+   - [Exercise 5 - Using `super` keyword](#)
    - [Polymorphism (compile-time and runtime)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0506.md)
+   - [Exercise 6 - Polymorphism (compile-time and runtime)](#)
    - [Encapsulation and access modifiers](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0507.md)
+   - [Exercise 7 - Encapsulation and access modifiers](#)
    - [Abstraction (abstract classes and interfaces)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0508.md)
+   - [Exercise 8 - Abstraction (abstract classes and interfaces)](#)
 
 ### 6. **Arrays and Strings**
    - [One-dimensional and multi-dimensional arrays](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0601.md)
+   - [Exercise 1 - One-dimensional and multi-dimensional arrays](#)
    - [Common array operations](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0602.md)
+   - [Exercise 2 - Common array operations](#)
    - [Strings in Java (String class, StringBuilder, StringBuffer)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0603.md)
+   - [Exercise 3 - Strings in Java](#)
    - [String manipulation methods](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0604.md)
+   - [Exercise 4 - String manipulation methods](#)
    - [Arrays as method parameters](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0605.md)
+   - [Exercise 5 - Arrays as method parameters](#)
 
 ### 7. **Memory Management**
    - [Stack vs Heap memory](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0701.md)
@@ -61,11 +74,15 @@
 
 ### 8. **Exception Handling**
    - [Types of exceptions (checked vs unchecked)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0801.md)
+   - [Exercise 1 - Types of exceptions](#)
    - [Try-catch blocks](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0802.md)
+   - [Exercise 2 - Try-catch blocks](#)
    - [Multiple catch blocks and nested try-catch](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0803.md)
+   - [Exercise 3 - Multiple catch blocks and nested try-catch](#)
    - [finally block](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0804.md)
    - [throw and throws keywords](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0805.md)
    - [Custom exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0806.md)
+   - [Exercise 4 - Custom exceptions](#)
 
 ### 9. **Packages and Access Modifiers** 
    - [Creating and using packages](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0901.md)
@@ -75,17 +92,27 @@
 
 ### 10. **Collections Framework** 
    - [Introduction to Collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1001.md)
+   - [Exercise 1 - Collections Framework](#)
    - [List, Set, and Map interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1002.md)
+   - [Exercise 2 - List, Set, and Map interfaces](#)
    - [ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1003.md)
+   - [Exercise 3 - ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap](#)
    - [Iterators and enhanced for-loop](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1004.md)
+   - [Exercise 4 - Iterators and enhanced for-loop](#)
    - [Sorting and searching in collections](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1005.md)
+   - [Exercise 5 - Sorting and searching in collections](#)
    - [Comparable and Comparator interfaces](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1006.md)
+   - [Exercise 6 - Comparable and Comparator interfaces](#)
 
 ### 11. **File Handling** 
    - [Reading and writing files using File I/O classes (FileReader, FileWriter, BufferedReader, BufferedWriter)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1101.md)
+   - [Exercise 1 - Reading and writing files using File I/O classes](#)
    - [Serialization and Deserialization](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1102.md)
+   - [Exercise 2 - Serialization and Deserialization](#)
    - [FileInputStream, FileOutputStream](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1103.md)
+   - [Exercise 3 - FileInputStream, FileOutputStream Classes](#)
    - [Handling file exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1104.md)
+   - [Exercise 4 - Handling file exceptions](#)
 ##
 ## Part II - Advanced Java Concepts ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 ### 12. **Multithreading and Concurrency**
