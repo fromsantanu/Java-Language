@@ -27,10 +27,15 @@
 
 ### 4. **Functions and Methods**
    - [Defining and calling methods](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0401.md)
+   - [Exercise 1 : Write programs using functions](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0401.md)
    - [Method overloading](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0402.md)
+   - [Exercise 2 : Method Overloading](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0402.md)
    - [Pass by value vs pass by reference](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0403.md)
+   - [Exercise 3 : Pass by value vs pass by reference](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0403.md)
    - [Recursion](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0404.md)
+   - [Exercise 4 : Program with recursive peocesses](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0404.md)
    - [Scope of variables (local, instance, static)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0405.md)
+   - [Exercise 5 : Snppets and programs on variable types](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0405.md)
 
 ### 5. **Object-Oriented Programming (OOP)**
    - [Classes and objects](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0501.md)
