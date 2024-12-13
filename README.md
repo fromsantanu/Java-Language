@@ -17,12 +17,12 @@
 ### 3. **Control Flow Statements**
    - [if, if-else, nested if-else](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0301.md)
    - [switch-case statements](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0302.md)
-   - [Practice Exercise 1:Basic Decision Manking Programming Exercises](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0301.md) 
+   - [Practice Exercise 1](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0301.md) 
    - [Loops (for, while, do-while)](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0303.md)
-   - [Practice Exercise 2: Basic Loop Specific Questions](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0302.md)
+   - [Practice Exercise 2](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0302.md)
    - [Break, Continue, and Return statements](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0304.md)
-   - [Practice Exercise 3: Loop control specific Questions](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0303.md)
-   - [Practice Exercise 4: Patterns using Nested Loops](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0304.md) 
+   - [Practice Exercise 3](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0303.md)
+   - [Practice Exercise 4](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex0304.md) 
    - [Enhanced for-loop](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch0305.md)
 
 ### 4. **Functions and Methods**
