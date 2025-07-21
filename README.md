@@ -114,6 +114,9 @@
    - [Handling file exceptions](https://github.com/fromsantanu/Java-Language/blob/main/pages/ch1104.md)
    - [Practice Exercise 36](https://github.com/fromsantanu/Java-Language/blob/main/ex/ex1104.md)
 ##
+## Programming Exercises 
+   - [**Programming Exercises (Full Collection)**](https://github.com/fromsantanu/prg-exr/blob/main/README.md)
+##
 ## Part II - Advanced Java Concepts ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 ### 12. **Multithreading and Concurrency**
    - [Introduction to multithreading](#)
